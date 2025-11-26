@@ -6,9 +6,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=mishba-0&theme=radical&margin-w=10" alt="mishba-0 trophies" />
 </p>
 
-<p align="right">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyZWgza2NnaTJxYmFwdG12azA3d3g3eHI2c21oeTRrZHRlODRqZ2hodSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/dWesBcTLavkZuG35MI/200_d.gif" alt="mishba-0 trophies" />
-</p>
+<img src="https://media0.giphy.com/....gif" alt="trophy" style="float:right; margin-left:20px; width:200px;" />
 
 - 🔭 I’m currently working on **Web & Development App**
 
