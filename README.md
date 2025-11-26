@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mishba-0&label=Profile%20views&color=0e75b6&style=flat" alt="mishba-0" /> </p>
 <p align="left"> 
   <a href="https:                                           
-    <img src="https://github-profile-trophy.vercel.app/?username=mishba-0" alt="mishba-0" />
+     <img src="https://github-profile-trophy.vercel.app/?username=mishba-0" 
   </a> 
 </p>
 
