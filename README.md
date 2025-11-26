@@ -7,7 +7,7 @@
 </p>
 
 <table>
-  <tr>
+ 
     <!-- Left column: text/content -->
     <td valign="top">
       - 🔭 I’m currently working on **Web & Development App**<br>
@@ -23,7 +23,7 @@
            alt="mishba-0 trophies" width="200" />
     </td>
     </td>
-  </tr>
+ 
 </table>
 
 
