@@ -6,7 +6,8 @@
   <img src="https://github-profile-trophy.vercel.app/?username=mishba-0&theme=radical&margin-w=10" alt="mishba-0 trophies" />
 </p>
 
-
+<table>
+<tr>
 
    
   <td valign="top" align="right" width="220">
@@ -22,8 +23,8 @@
       - 📫 How to reach me **misbhatahiriqbal@gmail.com**<br>
       - ⚡ Fun fact **I am good at cloning website design**
     </td>
-
-  
+</tr>
+  </table>
  
 
 
