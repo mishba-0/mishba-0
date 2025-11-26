@@ -6,7 +6,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=mishba-0&theme=radical&margin-w=10" alt="mishba-0 trophies" />
 </p>
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyZWgza2NnaTJxYmFwdG12azA3d3g3eHI2c21oeTRrZHRlODRqZ2hodSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/dWesBcTLavkZuG35MI/200_d.gif" alt="trophy" style="float:left; margin-right:20px; width:200px;" />
+<img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyZWgza2NnaTJxYmFwdG12azA3d3g3eHI2c21oeTRrZHRlODRqZ2hodSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/dWesBcTLavkZuG35MI/200_d.gif" alt="trophy" style="float:right; margin-right:20px; width:200px;" />
 
 
 
