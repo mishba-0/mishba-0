@@ -7,13 +7,7 @@
 </p>
 
 <table>
-<tr>
-
-   
-  <td valign="top" align="right" width="220">
-      <img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyZWgza2NnaTJxYmFwdG12azA3d3g3eHI2c21oeTRrZHRlODRqZ2hodSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/dWesBcTLavkZuG35MI/200_d.gif"
-           alt="mishba-0 trophies" width="400" />
-  </td>
+  <tr>
     <!-- Left column: text/content -->
     <td valign="top">
       - 🔭 I’m currently working on **Web & Development App**<br>
@@ -23,9 +17,13 @@
       - 📫 How to reach me **misbhatahiriqbal@gmail.com**<br>
       - ⚡ Fun fact **I am good at cloning website design**
     </td>
-</tr>
-  </table>
- 
+  <td valign="top" align="right" width="220">
+      <img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyZWgza2NnaTJxYmFwdG12azA3d3g3eHI2c21oeTRrZHRlODRqZ2hodSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/dWesBcTLavkZuG35MI/200_d.gif"
+           alt="mishba-0 trophies" width="400" />
+    </td>
+   
+  </tr>
+</table>
 
 
 <h3 align="left">Connect with me:</h3>
