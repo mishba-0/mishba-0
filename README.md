@@ -6,22 +6,26 @@
   <img src="https://github-profile-trophy.vercel.app/?username=mishba-0&theme=radical&margin-w=10" alt="mishba-0 trophies" />
 </p>
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyZWgza2NnaTJxYmFwdG12azA3d3g3eHI2c21oeTRrZHRlODRqZ2hodSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/dWesBcTLavkZuG35MI/200_d.gif" alt="trophy" style="float:right; margin-right:20px; width:200px;" />
+<table>
+  <tr>
+    <!-- Left column: text/content -->
+    <td valign="top">
+      - 🔭 I’m currently working on **Web & Development App**<br>
+      - 👯 I’m looking to collaborate on **Local project related to each**<br>
+      - 🤝 I’m looking for help with **Web & Development App**<br>
+      - 👨‍💻 All of my projects are available at <a href="https://github.com/mishba-0/misbha-Portfolio-2">github.com/mishba-0/misbha-Portfolio-2</a><br>
+      - 📫 How to reach me **misbhatahiriqbal@gmail.com**<br>
+      - ⚡ Fun fact **I am good at cloning website design**
+    </td>
 
+  <td valign="top" align="right" width="220">
+      <img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyZWgza2NnaTJxYmFwdG12azA3d3g3eHI2c21oeTRrZHRlODRqZ2hodSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/dWesBcTLavkZuG35MI/200_d.gif"
+           alt="mishba-0 trophies" width="200" />
+    </td>
+    </td>
+  </tr>
+</table>
 
-
-
-- 🔭 I’m currently working on **Web & Development App**
-
-- 👯 I’m looking to collaborate on **Local project related to each**
-
-- 🤝 I’m looking for help with **Web & Development App**
-
-- 👨‍💻 All of my projects are available at [https://github.com/mishba-0/misbha-Portfolio-2](https://github.com/mishba-0/misbha-Portfolio-2)
-
-- 📫 How to reach me **misbhatahiriqbal@gmail.com**
-
-- ⚡ Fun fact **I am good at cloing website desing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
